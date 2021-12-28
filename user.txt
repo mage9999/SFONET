@@ -1,2 +1,4 @@
 This is Master file with name magi and PID is 2174
 Now adding Line2 in this file
+Ok. Now Adding line3 directly in Remote hub.
+and as well Line4.
