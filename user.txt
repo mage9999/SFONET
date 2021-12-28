@@ -1,1 +1,2 @@
 This is Master file with name magi and PID is 2174
+Now adding Line2 in this file

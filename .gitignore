@@ -1,0 +1,7 @@
+# exclude all log files
+*.log
+#exclude all tmp files
+*.tmp
+# exclude tmp folder
+tmp/
+
